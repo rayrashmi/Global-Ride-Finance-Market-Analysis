@@ -1,11 +1,7 @@
 Data Analysis Project – Regional Performance KPI Dashboard
 
->> Analyzed multi-country performance data using Pivot Tables, consolidating key metrics and creating a clear regional overview for leadership.
+Developed a multi-country performance KPI dashboard (using Pivot Tables) to consolidate raw data and provide leadership with a clear, standardized regional performance overview.
 
->> Mapped individual countries to their respective regions and calculated final KPIs, including ASP, Commission %, Net Rate %, and EBITDA %.
+Calculated critical financial and operational metrics, including ASP, Commission %, Net Rate %, and EBITDA %, demonstrating expertise in key business driver analysis.
 
->> Cleaned, structured, and standardized raw data to ensure accuracy, consistency, and reliable comparison across markets.
-
->> Delivered a polished, presentation-ready KPI summary that enabled management to quickly understand regional performance and make informed decisions.
-
-
+Executed data cleaning, structuring, and standardization processes to ensure cross-market accuracy and reliable comparison, enabling management to make informed, data-driven decisions on regional strategy.
